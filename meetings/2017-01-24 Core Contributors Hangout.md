@@ -13,7 +13,7 @@
 * David Ohayon ([@ohwutup](https://github.com/ohwutup))
 * Mark Pirri ([@mpirri](https://github.com/mpirri))
 * Danielle Tomlinson ([@DanToml](https://github.com/DanToml))
-* Manu Wallner ([@milch](https://github.com/milch))
+* Manuel Wallner ([@milch](https://github.com/milch))
 
 ## Agenda
 
