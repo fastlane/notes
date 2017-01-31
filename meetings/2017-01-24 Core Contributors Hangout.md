@@ -26,18 +26,20 @@
 
 ## Areas of knowledge and interest
 
-* Andrea (Boston) - screengrab, supply, sigh
-* Mike (Boston) - Android, screengrab, fastlane, fastlane_core, command-line processing & Commander, iTunes Transporter, plugins
-* Mark (Boston) - iOS, scan, gym, spaceship, plugins
-* David (Boston) - iOS, packaged-fastlane, snapshot, gym
-* Felix (San Francisco) - everything
-* Dan (Berlin) - infrastructure, packaged-fastlane (CocoaPods mac app), weird Ruby things, architecture and performance
-* Helmut (Vienna) - fixing bugs across all products, spaceship, first experience with Ruby, RSpec code coverage
-* Jerome (Paris) - sigh, deliver, spaceship. Wants to suppose own infrastructure, support all the platforms they use (unity3d). Wants to talk more about unity3d and Fabric. fastlane_core
-* Josh (Chicago) - fastlane implementation, user facing features, fastlane_core
-* Manu (Vienna) - ios tools, code signing
-* Olivier (Paris) - gym and scan, ruby in general, ios, setting up fastlane for new people, getting people set up with their new PRs.
-* Maksym (Sydney, Australia) - iOS developer, code signing and resigning (sigh and resign), unit tests, commandline, open to learning
+| Person   |        City       | Area of knowledge and interest |
+|----------|-------------------|--------------------------------|
+| Andrea   | Boston, MA        | screengrab, supply, sigh       |
+| Mike     | Boston, MA        | Android, screengrab, fastlane, fastlane_core, command-line processing & Commander, iTunes Transporter, plugins |
+| Mark     | Boston, MA        | iOS, scan, gym, spaceship, plugins |
+| David    | Boston, MA        | iOS, packaged-fastlane, snapshot, gym |
+| Felix    | San Francisco, CA | everything |
+| Dan      | Berlin, Germany   | infrastructure, packaged-fastlane (CocoaPods mac app), weird Ruby things, architecture and performance |
+| Helmut   | Vienna, Austria   | fixing bugs across all products, spaceship, first experience with Ruby, RSpec code coverage
+| Jerome   | Paris, France     | sigh, deliver, spaceship. Wants to suppose own infrastructure, support all the platforms they use (unity3d). Wants to talk more about unity3d and Fabric. fastlane_core |
+| Josh     | Chicago, IL       | fastlane implementation, user facing features, fastlane_core |
+| Manu     | Vienna, Austria   | ios tools, code signing |
+| Olivier  | Rennes, France    | gym and scan, ruby in general, ios, setting up fastlane for new people, getting people set up with their new PRs. |
+| Maksym   | Sydney, Australia | - iOS developer, code signing and resigning (sigh and resign), unit tests, commandline, open to learning
 
 ## Ideas
 
