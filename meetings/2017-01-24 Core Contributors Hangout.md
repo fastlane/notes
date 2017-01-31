@@ -39,7 +39,7 @@
 | Josh     | Chicago, IL       | fastlane implementation, user facing features, fastlane_core |
 | Manu     | Vienna, Austria   | ios tools, code signing |
 | Olivier  | Rennes, France    | gym and scan, ruby in general, ios, setting up fastlane for new people, getting people set up with their new PRs. |
-| Maksym   | Sydney, Australia | - iOS developer, code signing and resigning (sigh and resign), unit tests, commandline, open to learning
+| Maksym   | Sydney, Australia | iOS developer, code signing and resigning (sigh and resign), unit tests, commandline, open to learning |
 
 ## Ideas
 
